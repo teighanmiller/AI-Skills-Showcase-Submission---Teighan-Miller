@@ -1,0 +1,2 @@
+- fashion_mnist_classification_final contains the finished showcase. 
+- fashion_mnist_classification contains testing using Linear Regression, Naive Bayes, and parameter tuning for KNN.
